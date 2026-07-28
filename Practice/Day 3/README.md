@@ -19,4 +19,8 @@ Professional Commit Messages:
 
 ## Feature Branch Update
 
-This update was made in the feature/python branch to simulate a professional Git workflow.
+This update was made in the feature/python branch to simulate a professional Git workflow.git status
+
+### Correction
+
+Minor formatting issue fixed.
