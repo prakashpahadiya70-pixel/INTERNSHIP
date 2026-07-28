@@ -16,3 +16,7 @@ Professional Commit Messages:
 - docs
 - refactor
 - chore
+
+## Feature Branch Update
+
+This update was made in the feature/python branch to simulate a professional Git workflow.
