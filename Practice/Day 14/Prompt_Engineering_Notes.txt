@@ -1,0 +1,199 @@
+DAY 14 – PROMPT ENGINEERING NOTES
+
+1. LLM BASICS
+
+LLM stands for Large Language Model.
+
+An LLM is an Artificial Intelligence model trained on a large amount of text data. It can understand and generate human-like text.
+
+Examples:
+- ChatGPT
+- Google Gemini
+- Claude
+- Llama
+
+Common applications:
+- Text generation
+- Summarization
+- Translation
+- Question answering
+- Code generation
+- Information extraction
+
+
+2. PROMPT
+
+A prompt is an instruction or input given to an AI model to generate a desired response.
+
+Example:
+
+Explain Machine Learning to a beginner in simple English.
+
+
+3. PROMPT ENGINEERING
+
+Prompt Engineering is the process of designing, testing and improving prompts to obtain better, more accurate and useful responses from an AI model.
+
+A good prompt should clearly specify:
+- Task
+- Context
+- Required information
+- Output format
+- Audience
+- Constraints
+
+
+4. TOKENS
+
+Tokens are the basic units of text processed by an LLM.
+
+A token can represent:
+- A complete word
+- Part of a word
+- Punctuation
+- Other small pieces of text
+
+Tokens are important because LLMs process and measure text using tokens.
+
+
+5. TEMPERATURE
+
+Temperature controls the randomness and creativity of an AI model's response.
+
+Low temperature:
+- More predictable
+- More consistent
+- Less creative
+
+High temperature:
+- More creative
+- More varied
+- Less predictable
+
+Low temperature is useful for tasks such as extraction and classification.
+
+Higher temperature can be useful for creative writing and brainstorming.
+
+
+6. PROMPT TYPES
+
+Zero-Shot Prompt:
+A task is given without providing examples.
+
+Example:
+Translate "Good morning" into Hindi.
+
+
+Few-Shot Prompt:
+Examples are provided before asking the model to perform the task.
+
+Example:
+Positive: I love this product.
+Sentiment: Positive
+
+Negative: This product is terrible.
+Sentiment: Negative
+
+I really like this product.
+Sentiment:
+
+
+Instruction Prompt:
+Provides a direct instruction to the AI.
+
+Example:
+Summarize the following text in five bullet points.
+
+
+Role-Based Prompt:
+Assigns a specific role to the AI.
+
+Example:
+You are an experienced HR manager. Review this resume and provide suggestions.
+
+
+Structured Prompt:
+Specifies the desired format of the output.
+
+Example:
+Extract Name, Email and Skills and return the information in a structured format.
+
+
+7. API
+
+API stands for Application Programming Interface.
+
+An API allows one software application to communicate with another software service.
+
+In AI applications, an API can allow a Python program or another application to send a prompt to an AI model and receive its response.
+
+
+8. API KEY
+
+An API key is a credential used to authenticate an application when accessing an API.
+
+Basic flow:
+
+Application
+     ↓
+API Key
+     ↓
+AI API
+     ↓
+AI Model
+     ↓
+Response
+
+
+9. API KEY SECURITY
+
+API keys are confidential credentials.
+
+Important security practices:
+- Never share an API key publicly.
+- Never upload API keys to GitHub.
+- Do not hard-code secret keys directly into source code.
+- Use environment variables or a secure secret-management system.
+- Regenerate/revoke a key if it is accidentally exposed.
+
+
+10. GOOD PROMPT PRACTICES
+
+1. Give clear instructions.
+2. Provide enough context.
+3. Specify the target audience.
+4. Define the required output format.
+5. Use examples when necessary.
+6. Set useful constraints such as word limits.
+7. Avoid unnecessary ambiguity.
+8. Test and improve prompts iteratively.
+
+
+11. PROMPT IMPROVEMENT
+
+Prompt improvement means modifying a prompt to produce a more useful and controlled response.
+
+In this practical, the prompt was improved through four versions.
+
+Version 1:
+Explain Machine Learning.
+
+Version 2:
+Added beginner audience, simple English and required information.
+
+Version 3:
+Added an instructor role and a structured response format.
+
+Version 4:
+Added detailed instructions, output structure, terminology guidance and word limit.
+
+The final prompt produced a more precise, organized and beginner-friendly response.
+
+
+12. CONCLUSION
+
+Prompt Engineering helps users communicate more effectively with AI models.
+
+Clear prompts generally produce more relevant and controlled outputs.
+
+During this practical, summarization, extraction, generation, prompt comparison and prompt improvement were performed.

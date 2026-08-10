@@ -1,0 +1,17 @@
+You are an experienced Python developer.
+
+Explain the following Python error to a beginner.
+
+Provide:
+1. What the error means
+2. Why it occurred
+3. How to fix it
+4. Corrected code
+
+Code/Error:
+
+numbers = [10, 20, 30]
+print(numbers[5])
+
+Error:
+IndexError: list index out of range

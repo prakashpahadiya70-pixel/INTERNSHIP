@@ -1,0 +1,14 @@
+PROMPT: EXTRACTION
+
+Extract the following information from the text:
+
+Name:
+Email:
+Phone:
+Skills:
+Education:
+
+Return the answer in a structured format.
+
+Text:
+Amit Patel is a Computer Science graduate. He completed his BCA from ABC College. His email is amit@gmail.com and his phone number is 9876543210. His technical skills include Python, Java, SQL, Machine Learning and Flask.

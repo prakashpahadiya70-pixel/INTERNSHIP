@@ -1,0 +1,192 @@
+DAY 14 – PROMPT COMPARISON DOCUMENT
+
+PROMPT IMPROVEMENT EXERCISE
+
+Topic: Machine Learning Explanation
+
+Objective:
+The objective of this exercise was to create a basic prompt and improve it through multiple iterations to obtain a more relevant, structured and beginner-friendly response.
+
+
+--------------------------------------------------
+VERSION 1 – BASIC PROMPT
+--------------------------------------------------
+
+Prompt:
+
+Explain Machine Learning.
+
+
+Observation:
+
+This prompt is very simple and does not provide any specific instructions.
+
+The AI has no information about:
+- Target audience
+- Required level of detail
+- Response structure
+- Examples
+- Language complexity
+
+Therefore, the response can be general and may not match the user's exact requirements.
+
+
+--------------------------------------------------
+VERSION 2 – IMPROVED PROMPT
+--------------------------------------------------
+
+Prompt:
+
+Explain Machine Learning to a beginner in simple English. Include the definition, how it works, and one real-life example.
+
+
+Improvements:
+
+- Target audience was specified as a beginner.
+- Simple English was requested.
+- Definition was explicitly requested.
+- Working of Machine Learning was requested.
+- A real-life example was requested.
+
+Result:
+
+The response became more relevant and easier for a beginner to understand.
+
+
+--------------------------------------------------
+VERSION 3 – MORE IMPROVED PROMPT
+--------------------------------------------------
+
+Prompt:
+
+You are an experienced Machine Learning instructor.
+
+Explain Machine Learning to a complete beginner in simple English.
+
+Structure your answer into:
+1. Definition
+2. How Machine Learning works
+3. Types of Machine Learning
+4. One real-life example
+5. Short conclusion
+
+Avoid complex technical terms.
+
+
+Improvements:
+
+- A specific role was assigned to the AI.
+- The target audience was clearly defined.
+- A structured output format was provided.
+- Important topics were explicitly listed.
+- Complex terminology was restricted.
+
+Result:
+
+The response became more organized, educational and beginner-friendly.
+
+
+--------------------------------------------------
+VERSION 4 – FINAL IMPROVED PROMPT
+--------------------------------------------------
+
+Prompt:
+
+You are an experienced Machine Learning instructor teaching a student with no prior knowledge of Machine Learning.
+
+Explain Machine Learning in simple and beginner-friendly English.
+
+Use the following structure:
+
+1. What is Machine Learning?
+2. How does it work?
+3. Main types of Machine Learning
+4. One simple real-life example
+5. Advantages
+6. Short conclusion
+
+Use simple language, short paragraphs and bullet points where appropriate.
+
+Avoid unnecessary technical terminology. If a technical term is necessary, explain it briefly.
+
+Keep the response between 250 and 300 words.
+
+
+Improvements:
+
+- Detailed target audience was provided.
+- AI role was clearly defined.
+- Output structure was specified.
+- Additional topic coverage was requested.
+- Simple language was emphasized.
+- Technical terminology was controlled.
+- A word limit was added.
+- Formatting instructions were provided.
+
+Result:
+
+This version produced the most controlled, structured and beginner-friendly response.
+
+
+--------------------------------------------------
+COMPARISON TABLE
+--------------------------------------------------
+
+Version | Main Improvement | Expected Output Quality
+
+V1 | Basic instruction only | Generic response
+
+V2 | Audience and requirements added | More relevant response
+
+V3 | Role and structure added | More organized response
+
+V4 | Detailed instructions, format and constraints added | Most precise and controlled response
+
+
+--------------------------------------------------
+WHY EACH REVISION WAS BETTER
+--------------------------------------------------
+
+Iteration 1:
+
+The initial prompt was too general. It only specified the topic and did not provide enough context.
+
+Iteration 2:
+
+The target audience and required information were added. This helped the AI generate a more relevant explanation.
+
+Iteration 3:
+
+A role and structured format were introduced. This improved the organization and teaching style of the response.
+
+Iteration 4:
+
+Detailed instructions, formatting requirements, terminology guidance and a word limit were added. This gave the AI clearer constraints and resulted in the most controlled response.
+
+
+--------------------------------------------------
+FINAL OBSERVATION
+--------------------------------------------------
+
+The exercise demonstrates that prompt quality has a significant impact on AI output quality.
+
+A basic prompt can produce a general response, while a well-engineered prompt provides context, structure, constraints and clear expectations.
+
+The final version was the most effective because it clearly defined the role, audience, task, structure, language, terminology and response length.
+
+
+--------------------------------------------------
+SCREENSHOT REFERENCES
+--------------------------------------------------
+
+Version 1 Output:
+V1_Output.png
+
+Version 2 Output:
+V2_Output.png
+
+Version 3 Output:
+V3_Output.png
+
+Version 4 Output:
+V4_Output.png
