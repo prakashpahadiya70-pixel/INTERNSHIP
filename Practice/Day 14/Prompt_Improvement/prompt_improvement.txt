@@ -1,0 +1,46 @@
+VERSION 1 – BASIC PROMPT
+
+Explain Machine Learning.
+
+
+VERSION 2 – IMPROVED PROMPT
+
+Explain Machine Learning to a beginner in simple English. Include the definition, how it works, and one real-life example.
+
+
+VERSION 3 – MORE IMPROVED PROMPT
+
+You are an experienced Machine Learning instructor.
+
+Explain Machine Learning to a complete beginner in simple English.
+
+Structure your answer into:
+1. Definition
+2. How Machine Learning works
+3. Types of Machine Learning
+4. One real-life example
+5. Short conclusion
+
+Avoid complex technical terms.
+
+
+VERSION 4 – FINAL PROMPT
+
+You are an experienced Machine Learning instructor teaching a student with no prior knowledge of Machine Learning.
+
+Explain Machine Learning in simple and beginner-friendly English.
+
+Use the following structure:
+
+1. What is Machine Learning?
+2. How does it work?
+3. Main types of Machine Learning
+4. One simple real-life example
+5. Advantages
+6. Short conclusion
+
+Use simple language, short paragraphs and bullet points where appropriate.
+
+Avoid unnecessary technical terminology. If a technical term is necessary, explain it briefly.
+
+Keep the response between 250 and 300 words.

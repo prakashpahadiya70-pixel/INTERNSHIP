@@ -1,0 +1,5 @@
+PROMPT: SUMMARIZATION
+
+Summarize the following paragraph in 5 bullet points using simple English.
+
+Artificial Intelligence has become an important technology in many industries. It is used in healthcare for disease detection, in finance for fraud detection, in education for personalized learning, and in transportation for route optimization. Machine Learning allows systems to learn from data and improve their performance over time. Generative AI can create text, images, code and other content.

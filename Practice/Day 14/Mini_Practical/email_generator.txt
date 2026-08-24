@@ -1,0 +1,16 @@
+You are a professional email writing assistant.
+
+Generate a professional email based on the following information.
+
+Include:
+1. Subject
+2. Greeting
+3. Main message
+4. Required action
+5. Professional closing
+
+Keep the email clear, polite and concise.
+
+Information:
+
+I need to request two days of leave from my internship supervisor due to personal reasons. The leave dates are 12 August and 13 August 2026.

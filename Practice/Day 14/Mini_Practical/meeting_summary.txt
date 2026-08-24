@@ -1,0 +1,22 @@
+Summarize the following meeting transcript.
+
+Provide:
+1. Main discussion points
+2. Decisions made
+3. Action items
+4. Responsible persons
+5. Deadlines
+
+Keep the summary concise and use bullet points.
+
+Meeting Transcript:
+
+Manager: We need to complete the AI project documentation by Friday.
+
+Rahul: I will prepare the technical documentation.
+
+Priya: I will prepare the presentation.
+
+Manager: Both tasks should be completed by 14 August 2026.
+
+Rahul: I will also review the project screenshots before submission.

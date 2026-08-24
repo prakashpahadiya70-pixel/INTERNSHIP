@@ -1,0 +1,12 @@
+PROMPT: GENERATION
+
+Generate a professional email requesting leave from a manager for two days due to personal reasons.
+
+The email should include:
+1. Subject
+2. Greeting
+3. Reason
+4. Leave dates
+5. Polite closing
+
+Keep it concise and professional.

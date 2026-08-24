@@ -1,0 +1,69 @@
+PROMPT 1: RESUME REVIEW
+
+You are an experienced HR manager.
+
+Review the following resume for a fresher applying for a Software Developer position.
+
+Evaluate:
+1. Skills
+2. Projects
+3. Education
+4. Resume clarity
+5. Areas for improvement
+
+Give practical suggestions in bullet points.
+
+Resume:
+[Paste resume here]
+
+
+PROMPT 2: BUG EXPLANATION
+
+You are an experienced Python developer.
+
+Explain the following Python error to a beginner.
+
+Provide:
+1. What the error means
+2. Why it occurred
+3. How to fix it
+4. Corrected code
+
+Code/Error:
+[Paste code and error here]
+
+
+PROMPT 3: MEETING SUMMARY
+
+Summarize the following meeting transcript.
+
+Provide:
+1. Main discussion points
+2. Decisions made
+3. Action items
+4. Responsible persons
+5. Deadlines
+
+Keep the summary concise and use bullet points.
+
+Meeting Transcript:
+[Paste transcript here]
+
+
+PROMPT 4: EMAIL GENERATOR
+
+You are a professional email writing assistant.
+
+Generate a professional email based on the following information.
+
+Include:
+1. Subject
+2. Greeting
+3. Main message
+4. Required action
+5. Professional closing
+
+Keep the email clear, polite and concise.
+
+Information:
+[Enter email details here]

@@ -1,0 +1,11 @@
+Git commands have been organized for better readability.
+
+Commands:
+- git init
+- git add
+- git commit
+- git push
+- git pull
+- git clone
+- git branch
+- git merge

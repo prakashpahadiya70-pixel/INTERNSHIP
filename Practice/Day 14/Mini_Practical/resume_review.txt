@@ -1,0 +1,21 @@
+You are an experienced HR manager.
+
+Review the following resume for a fresher applying for a Software Developer position.
+
+Evaluate:
+1. Skills
+2. Projects
+3. Education
+4. Resume clarity
+5. Areas for improvement
+
+Give practical suggestions in bullet points.
+
+Resume:
+Name: Rahul Sharma
+Education: BCA
+Skills: Python, SQL, Flask, Machine Learning
+Projects: Used Car Price Prediction using Machine Learning and Flask
+Experience: Fresher
+
+

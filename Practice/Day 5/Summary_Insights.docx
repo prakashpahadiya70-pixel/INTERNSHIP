@@ -1,0 +1,8 @@
+Summary of Insights
+
+1.The Titanic dataset was successfully loaded and explored using Pandas.
+2.Missing values were found mainly in the Age, Cabin, and Embarked columns.
+3.Female passengers had a higher survival rate than male passengers.
+4.First-class passengers paid the highest average fare.
+5.GroupBy operations helped analyze survival rates and average fares efficiently.
+6.The dataset provided useful insights for understanding passenger demographics and survival patterns.
