@@ -1,0 +1,46 @@
+DAY 25 PROVIDER TEST RESULTS
+============================
+
+TEST PROMPT:
+Explain how Retrieval-Augmented Generation (RAG) works
+in an AI customer support system.
+
+Requirements:
+1. Explain the process clearly.
+2. Give 3 advantages.
+3. Give 2 limitations.
+4. Keep the response around 150 words.
+
+
+GROQ
+----
+Model: openai/gpt-oss-20b
+Status: SUCCESS
+Response Time: 1.27 seconds
+Input Tokens: 124
+Output Tokens: 300
+Total Tokens: 424
+
+
+GEMINI
+------
+Model: gemini-3.6-flash
+Status: SUCCESS
+Response Time: 11.73 seconds
+Input Tokens: 63
+Output Tokens: 255
+Reported Total Tokens: 1792
+
+
+OPENAI
+------
+Status: NOT AVAILABLE
+Reason: API quota = $0
+Live test could not be completed.
+
+
+CLAUDE
+------
+Status: NOT AVAILABLE
+Reason: Insufficient API credits
+Live test could not be completed.
