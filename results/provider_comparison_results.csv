@@ -1,0 +1,5 @@
+Provider,Model,Status,Response Time (sec),Input Tokens,Output Tokens,Total Tokens,Accuracy,Reason
+OpenAI,GPT-5 mini,Not Available,N/A,N/A,N/A,N/A,N/A,API quota unavailable ($0)
+Claude,Claude Sonnet,Not Available,N/A,N/A,N/A,N/A,N/A,Insufficient API credits
+Gemini,gemini-3.6-flash,Success,11.73,63,255,1792,5/5,Live test completed
+Groq,openai/gpt-oss-20b,Success,1.27,124,300,424,5/5,Live test completed
