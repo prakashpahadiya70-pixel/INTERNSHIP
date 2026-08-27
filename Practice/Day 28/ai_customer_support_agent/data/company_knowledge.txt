@@ -1,0 +1,34 @@
+COMPANY CUSTOMER SUPPORT KNOWLEDGE BASE
+
+Company: TechNova Solutions
+
+PRODUCT INFORMATION
+
+TechNova provides AI-powered software solutions for businesses.
+Customers can contact support for product-related questions, account issues, and service information.
+
+ACCOUNT SUPPORT
+
+Customers can update their account information from the Account Settings section.
+If a customer forgets their password, they can use the "Forgot Password" option on the login page.
+
+ORDER SUPPORT
+
+Customers can check their order status using the Order History section.
+Customers should provide their Order ID when contacting support about a specific order.
+
+REFUND POLICY
+
+Customers can request a refund within 7 days of purchase.
+Refund requests must include the relevant Order ID.
+Approved refunds are processed within 5-7 business days.
+
+SUPPORT HOURS
+
+Customer support is available Monday to Friday from 9:00 AM to 6:00 PM.
+Support is closed on weekends and public holidays.
+
+FALLBACK POLICY
+
+If the knowledge base does not contain reliable information for a customer question, the AI should not invent an answer.
+The system should provide a fallback response and recommend contacting human customer support.
