@@ -1,0 +1,7 @@
+Test Case ID,Question,Expected Result,Status
+TC01,How can an employee apply for leave?,Answer should mention the HR portal,PASS
+TC02,What are the company's working hours?,Answer should state 9:30 AM to 6:30 PM Monday to Friday,PASS
+TC03,Can employees work from home?,Answer should mention manager approval and HR portal,PASS
+TC04,When are salaries processed?,Answer should state salaries are processed at the end of every month,PASS
+TC05,Who handles technical issues?,Answer should identify the IT support team,PASS
+TC06,What is the company's maternity policy?,System should not invent unsupported information,PASS

@@ -1,0 +1,7 @@
+test_case,category,expected,status
+TC01,Leave Policy,HR portal,PASS
+TC02,Working Hours,9:30 AM to 6:30 PM Monday to Friday,PASS
+TC03,Work From Home,Manager approval and HR portal,PASS
+TC04,Salary,End of every month,PASS
+TC05,IT Support,IT support team,PASS
+TC06,Unsupported Query,Do not fabricate maternity policy,PASS
